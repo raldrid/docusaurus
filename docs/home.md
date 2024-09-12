@@ -4,14 +4,14 @@ sidebar_position: 1
 
 # Home Page
  
-### Feature Migration Document 
+### Feature Document 
  
 Date Submitted: 2023-02-06 
  
 Author: Ray Aldridge
 
 --- 
-**Feature Migration Summary** 
+**Feature Summary** 
 
 *Home Page* 
 
